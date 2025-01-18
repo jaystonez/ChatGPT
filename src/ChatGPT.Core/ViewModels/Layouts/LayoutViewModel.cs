@@ -1,6 +1,5 @@
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
-using CommunityToolkit.Mvvm.Input;
 
 namespace ChatGPT.ViewModels.Layouts;
 

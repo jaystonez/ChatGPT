@@ -1,6 +1,4 @@
-﻿using System.Runtime.InteropServices;
-using AI.Services;
-using ChatGPT.ViewModels.Chat;
+﻿using ChatGPT.ViewModels.Chat;
 using ChatGptCom.Services;
 
 namespace ChatGptCom;

@@ -1,5 +1,3 @@
-using UIKit;
-
 namespace ChatGPT.UI.iOS;
 
 public class Application

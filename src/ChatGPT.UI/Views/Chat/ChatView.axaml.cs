@@ -1,8 +1,3 @@
-using Avalonia;
-using Avalonia.Controls;
-using Avalonia.Controls.Primitives;
-using Avalonia.Reactive;
-
 namespace ChatGPT.Views.Chat;
 
 public partial class ChatView : UserControl

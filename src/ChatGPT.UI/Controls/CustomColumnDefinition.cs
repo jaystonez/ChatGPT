@@ -1,6 +1,3 @@
-using Avalonia;
-using Avalonia.Controls;
-
 namespace ChatGPT.Controls;
 
 public class CustomColumnDefinition : ColumnDefinition

@@ -6,7 +6,6 @@ using System.Text.Json;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using ChatGPT.ViewModels.Settings;
-using CommunityToolkit.Mvvm.Input;
 using Microsoft.VisualBasic.FileIO;
 
 namespace ChatGPT.ViewModels;

@@ -1,5 +1,4 @@
 using System.Runtime.InteropServices.JavaScript;
-using Avalonia;
 
 namespace ChatGPT.UI.Browser.Services;
 

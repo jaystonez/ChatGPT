@@ -1,7 +1,5 @@
 ﻿using System.Diagnostics;
 using System.Text.Json;
-using AI.Model.Services;
-using AI.Services;
 using ChatGPT.ViewModels;
 using ChatGPT.ViewModels.Chat;
 

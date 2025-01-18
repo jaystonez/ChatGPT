@@ -1,7 +1,4 @@
 using System.Linq;
-using Avalonia;
-using Avalonia.Controls;
-using Avalonia.Reactive;
 
 namespace ChatGPT.Views.Chat;
 

@@ -1,8 +1,3 @@
-using Avalonia;
-using Avalonia.Controls;
-using Avalonia.Input;
-using CommunityToolkit.Mvvm.Input;
-
 namespace ChatGPT.Views;
 
 public partial class MainWindow : Window

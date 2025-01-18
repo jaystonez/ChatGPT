@@ -1,10 +1,5 @@
 using System;
 using System.Threading;
-using AI.Services;
-using Avalonia;
-using Avalonia.Controls;
-using Avalonia.Interactivity;
-using Avalonia.Markup.Xaml;
 using ChatGPT.ViewModels.Chat;
 
 namespace ChatGPT;

@@ -2,7 +2,6 @@ using System;
 using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
-using AI.Services;
 using ChatGPT.ViewModels.Chat;
 
 namespace ChatGPT;

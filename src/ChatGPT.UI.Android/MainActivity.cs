@@ -1,9 +1,4 @@
 ﻿using System;
-using Android.App;
-using Android.Content.PM;
-using Android.Views;
-using Avalonia;
-using Avalonia.Android;
 
 namespace ChatGPT.UI.Android;
 

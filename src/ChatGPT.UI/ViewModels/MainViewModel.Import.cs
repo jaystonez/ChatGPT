@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using System.Linq;
-using AI.Model.Json.ChatGPT;
 using ChatGPT.ViewModels.Chat;
 
 namespace ChatGPT.ViewModels;

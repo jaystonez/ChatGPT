@@ -1,5 +1,4 @@
-﻿using AI.Services;
-using ChatGPT.ViewModels.Chat;
+﻿using ChatGPT.ViewModels.Chat;
 
 var chatSerializer = new SystemTextJsonChatSerializer();
 var chatService = new ChatService(chatSerializer);

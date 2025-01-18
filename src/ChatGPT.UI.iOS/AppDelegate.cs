@@ -1,7 +1,3 @@
-using Avalonia;
-using Avalonia.iOS;
-using Foundation;
-
 namespace ChatGPT.UI.iOS;
 
 // The UIApplicationDelegate for the application. This class is responsible for launching the 

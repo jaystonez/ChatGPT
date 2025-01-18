@@ -4,12 +4,10 @@ using System.IO;
 using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
-using AI.Model.Services;
 using ChatGPT.Model.Services;
 using ChatGPT.ViewModels.Chat;
 using ChatGPT.ViewModels.Layouts;
 using ChatGPT.ViewModels.Settings;
-using CommunityToolkit.Mvvm.Input;
 
 namespace ChatGPT.ViewModels;
 

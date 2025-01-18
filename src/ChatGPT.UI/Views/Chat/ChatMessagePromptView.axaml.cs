@@ -1,6 +1,3 @@
-using Avalonia.Controls;
-using Avalonia.Input;
-
 namespace ChatGPT.Views.Chat;
 
 public partial class ChatMessagePromptView : UserControl

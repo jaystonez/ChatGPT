@@ -1,7 +1,4 @@
 using System.Runtime.InteropServices;
-using Avalonia.Controls;
-using Avalonia.Input;
-using Avalonia.VisualTree;
 
 namespace ChatGPT.Views.Layouts;
 

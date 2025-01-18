@@ -1,8 +1,3 @@
-using Avalonia;
-using Avalonia.Controls;
-using Avalonia.Controls.Templates;
-using Avalonia.Markup.Xaml.Templates;
-
 namespace ChatGPT.DataTemplates;
 
 public class DataTemplateSelector : StyledElement, IDataTemplate
